@@ -1,4 +1,4 @@
-# OSky
+# O'Sky
 O'Sky is an observatory control software developed by OGMA.
 
 ## Project Status
